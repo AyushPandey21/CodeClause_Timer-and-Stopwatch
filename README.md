@@ -1,5 +1,5 @@
 # CodeClause_Web-Development
-## 📖 Task 2 - Stopwatch and Timer
+## 📖 Task 2- Stopwatch and Timer
 
 <br><b>Stopwatch project</b>, designed as a part of internship under <b> TASK 1 </b> of<b> Web Development and Designing </b>,is a dynamic website which can be used to perform operations like:
 <ul>
